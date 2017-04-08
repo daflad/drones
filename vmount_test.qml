@@ -1,0 +1,5 @@
+vmount start
+set MNT_MODE_IN 2
+set MNT_MODE_OUT 0
+set MNT_MAN_CONTROL 1
+set MNT_MAN_PITCH 2
